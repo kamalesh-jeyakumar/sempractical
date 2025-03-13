@@ -22,7 +22,7 @@ public static void main (String args[])
 	}
 	else
 	{
- 	System.out.println(" It is odd number");
+ 	System.out.println(" It is odd  number  number");
 	}
 	} 
 }
